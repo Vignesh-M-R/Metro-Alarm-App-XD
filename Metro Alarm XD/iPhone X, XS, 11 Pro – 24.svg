@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-iPhone_X_XS_11_Pro_24">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_11_Pro_24" data-name="iPhone X, XS, 11 Pro – 24" clip-path="url(#clip-iPhone_X_XS_11_Pro_24)">
+    <rect width="375" height="812" fill="#3d3d3d"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="50" cy="50" r="50" transform="translate(137.5 356)" fill="#9a0196"/>
+    <path id="Path_11" data-name="Path 11" d="M7617.221,5165l9.39,17.746,32.44-31.017" transform="translate(-7450.636 -4761.237)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+    <text id="Done_" data-name="Done!" transform="translate(188 498)" fill="#fff" font-size="29" font-family="BerlinSansFB-Reg, Berlin Sans FB" opacity="0"><tspan x="-35.209" y="0">Done!</tspan></text>
+  </g>
+</svg>

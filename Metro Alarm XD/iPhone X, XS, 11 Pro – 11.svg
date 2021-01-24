@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-iPhone_X_XS_11_Pro_11">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_11_Pro_11" data-name="iPhone X, XS, 11 Pro – 11" clip-path="url(#clip-iPhone_X_XS_11_Pro_11)">
+    <rect width="375" height="812" fill="#3d3d3d"/>
+    <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(31 332)" fill="#9a0196" stroke="#9f1cc5" stroke-width="1" opacity="0.5">
+      <rect width="314" height="61" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="313" height="60" rx="9.5" fill="none"/>
+    </g>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(31 420)" fill="#9a0196" stroke="#9f1cc5" stroke-width="1" opacity="0.5">
+      <rect width="314" height="61" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="313" height="60" rx="9.5" fill="none"/>
+    </g>
+    <path id="home" d="M16.735,2.451a1.032,1.032,0,0,0-1.24,0L1.125,13.228l1.24,1.518,1.76-1.327v11.9a1.962,1.962,0,0,0,2,1.923h20a1.962,1.962,0,0,0,2-1.923V13.43l1.76,1.317,1.24-1.509Zm1.39,22.87h-4V17.63h4Zm2,0V17.63a1.962,1.962,0,0,0-2-1.923h-4a1.962,1.962,0,0,0-2,1.923v7.691h-6V11.92l10-7.489,10,7.5V25.321Z" transform="translate(42.875 347.756)" fill="#fff" opacity="0.5"/>
+    <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(88 332)" fill="rgba(255,255,255,0.99)" stroke="#9f1cc5" stroke-width="1" opacity="0.5">
+      <rect width="257" height="61" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="256" height="60" rx="9.5" fill="none"/>
+    </g>
+    <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(88 420)" fill="rgba(255,255,255,0.99)" stroke="#9f1cc5" stroke-width="1" opacity="0.5">
+      <rect width="257" height="61" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="256" height="60" rx="9.5" fill="none"/>
+    </g>
+    <text id="Brownsville" transform="translate(147 370)" fill="#9a0196" font-size="20" font-family="BerlinSansFB-Reg, Berlin Sans FB" opacity="0.5"><tspan x="0" y="0">Brownsville</tspan></text>
+    <text id="Manhattan" transform="translate(147 457)" fill="#9a0196" font-size="20" font-family="BerlinSansFB-Reg, Berlin Sans FB" opacity="0.5"><tspan x="0" y="0">Manhattan</tspan></text>
+    <path id="drop-down" d="M7.5,12,15,19l7.5-7Z" transform="translate(303.5 348)" fill="#9a0196" fill-rule="evenodd" opacity="0.5"/>
+    <path id="drop-down-2" data-name="drop-down" d="M7.5,12,15,19l7.5-7Z" transform="translate(303.5 436)" fill="#9a0196" fill-rule="evenodd" opacity="0.5"/>
+    <g id="Button" opacity="0.5">
+      <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(101 681)" fill="#9a0196" stroke="#fff" stroke-width="1">
+        <rect width="173" height="36" rx="18" stroke="none"/>
+        <rect x="0.5" y="0.5" width="172" height="35" rx="17.5" fill="none"/>
+      </g>
+      <text id="Next_" data-name="Next " transform="translate(170 704)" fill="#fff" font-size="15" font-family="BerlinSansFB-Reg, Berlin Sans FB" letter-spacing="0.02em"><tspan x="0" y="0">Next </tspan></text>
+    </g>
+    <g id="work-alt" transform="translate(84.5 500)" opacity="0.5">
+      <path id="Path_4" data-name="Path 4" d="M27.833,10.941a4.971,4.971,0,0,0-5-4.941H16.167a4.971,4.971,0,0,0-5,4.941H9.5a4.971,4.971,0,0,0-5,4.941V29.059A4.971,4.971,0,0,0,9.5,34h20a4.971,4.971,0,0,0,5-4.941V15.882a4.971,4.971,0,0,0-5-4.941Zm-5-1.647H16.167A1.657,1.657,0,0,0,14.5,10.941h10A1.657,1.657,0,0,0,22.833,9.294ZM9.5,14.235h20a1.657,1.657,0,0,1,1.667,1.647V29.059A1.657,1.657,0,0,1,29.5,30.706H9.5a1.657,1.657,0,0,1-1.667-1.647V15.882A1.657,1.657,0,0,1,9.5,14.235Z" transform="translate(-45 -69)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <text id="You_re_Almost_Done_" data-name="You&apos;re Almost Done!" transform="translate(188 151)" fill="#fff" font-size="31" font-family="BerlinSansFB-Reg, Berlin Sans FB" letter-spacing="0.02em" opacity="0.5"><tspan x="-136.323" y="0">You&apos;re Almost Done!</tspan></text>
+    <g id="Pop-up">
+      <g id="Rectangle_15" data-name="Rectangle 15" transform="translate(30 332)" fill="#fff" stroke="#fff" stroke-width="2">
+        <rect width="315" height="242" rx="10" stroke="none"/>
+        <rect x="1" y="1" width="313" height="240" rx="9" fill="none"/>
+      </g>
+      <text id="Are_you_going_home_on_Bart_We_have_set_an_alarm_at_Brownsville_station" data-name="Are you going home on Bart?
+We have set an alarm at 
+Brownsville station" transform="translate(61 382)" fill="#fff" font-size="20" font-family="BerlinSansFB-Reg, Berlin Sans FB" letter-spacing="0.02em"><tspan x="0" y="0">Are you going home on Bart?</tspan><tspan x="0" y="27">We have set an alarm at </tspan><tspan x="0" y="54">Brownsville station</tspan></text>
+      <g id="Button-2" data-name="Button" transform="translate(55.34 461.673)">
+        <g id="Rectangle_9-2" data-name="Rectangle 9" transform="translate(-0.34 0.327)" fill="#9a0196" stroke="#fff" stroke-width="1">
+          <rect width="266" height="36" rx="18" stroke="none"/>
+          <rect x="0.5" y="0.5" width="265" height="35" rx="17.5" fill="none"/>
+        </g>
+        <text id="No_Cancel_Alarm" data-name="No, Cancel Alarm" transform="translate(75.66 23.327)" fill="#fff" font-size="15" font-family="BerlinSansFB-Reg, Berlin Sans FB" letter-spacing="0.02em"><tspan x="0" y="0">No, Cancel Alarm</tspan></text>
+      </g>
+      <g id="Button-3" data-name="Button" transform="translate(55 512.291)">
+        <g id="Rectangle_9-3" data-name="Rectangle 9" transform="translate(0 -0.291)" fill="#fff" stroke="#9a0196" stroke-width="1">
+          <rect width="266" height="36" rx="18" stroke="none"/>
+          <rect x="0.5" y="0.5" width="265" height="35" rx="17.5" fill="none"/>
+        </g>
+        <text id="Ok_Set_Alarm" data-name="Ok, Set Alarm" transform="translate(88.074 23)" fill="#9a0196" font-size="15" font-family="BerlinSansFB-Reg, Berlin Sans FB" letter-spacing="0.02em"><tspan x="0" y="0">Ok, Set Alarm</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

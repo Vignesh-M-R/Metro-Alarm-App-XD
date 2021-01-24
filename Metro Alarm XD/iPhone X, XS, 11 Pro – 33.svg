@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-iPhone_X_XS_11_Pro_33">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_11_Pro_33" data-name="iPhone X, XS, 11 Pro – 33" clip-path="url(#clip-iPhone_X_XS_11_Pro_33)">
+    <rect width="375" height="812" fill="#3d3d3d"/>
+    <text id="You_are_all_set_you_will_be_notified_when_alarm_is_activated_for_your_commute." data-name="You are all set!
+
+
+
+
+
+you will be notified
+when alarm is activated for your commute." transform="translate(58 172)" fill="#fff" font-size="36" font-family="BerlinSansFB-Reg, Berlin Sans FB"><tspan x="19.373" y="32">You are all set!</tspan><tspan font-size="29"><tspan x="129.5" y="65"></tspan><tspan x="129.5" y="97"></tspan><tspan x="129.5" y="129"></tspan></tspan><tspan font-size="22"><tspan x="129.5" y="155"></tspan><tspan x="129.5" y="179"></tspan><tspan x="43.004" y="203">you will be notified</tspan><tspan x="4.434" y="227">when alarm is activated for </tspan><tspan x="60.165" y="251">your commute.</tspan></tspan></text>
+    <g id="Button" transform="translate(0 -39)">
+      <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(101 681)" fill="#9a0196" stroke="#fff" stroke-width="1">
+        <rect width="173" height="36" rx="18" stroke="none"/>
+        <rect x="0.5" y="0.5" width="172" height="35" rx="17.5" fill="none"/>
+      </g>
+      <text id="Ok_Got_it" data-name="Ok, Got it" transform="translate(155 704)" fill="#fff" font-size="15" font-family="BerlinSansFB-Reg, Berlin Sans FB" letter-spacing="0.02em"><tspan x="0" y="0">Ok, Got it</tspan></text>
+    </g>
+  </g>
+</svg>

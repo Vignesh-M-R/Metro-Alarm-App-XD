@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-iPhone_X_XS_11_Pro_8">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_11_Pro_8" data-name="iPhone X, XS, 11 Pro – 8" clip-path="url(#clip-iPhone_X_XS_11_Pro_8)">
+    <rect width="375" height="812" fill="#3d3d3d"/>
+    <text id="Select_Station_for_Home" data-name="Select
+Station for Home" transform="translate(188 129)" fill="#fff" font-size="31" font-family="BerlinSansFB-Reg, Berlin Sans FB" letter-spacing="0.02em"><tspan x="-38.665" y="0">Select</tspan><tspan x="-115.398" y="25">Station for Home</tspan></text>
+    <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(36 363)" fill="rgba(255,255,255,0.99)" stroke="#9f1cc5" stroke-width="1">
+      <rect width="303" height="61" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="302" height="60" rx="9.5" fill="none"/>
+    </g>
+    <text id="Brownsville" transform="translate(77 401)" fill="#9a0196" font-size="20" font-family="BerlinSansFB-Reg, Berlin Sans FB"><tspan x="0" y="0">Brownsville</tspan></text>
+    <path id="drop-down" d="M7.5,12,15,19l7.5-7Z" transform="translate(297.5 379)" fill="#9a0196" fill-rule="evenodd"/>
+    <path id="home" d="M47.954,2.906a2.942,2.942,0,0,0-3.72,0L1.125,37.393l3.72,4.859,5.28-4.247V76.091a6.078,6.078,0,0,0,6,6.153h60a6.078,6.078,0,0,0,6-6.153V38.039l5.28,4.214,3.72-4.829Zm4.171,73.185h-12V51.481h12Zm6,0V51.481a6.078,6.078,0,0,0-6-6.153h-12a6.078,6.078,0,0,0-6,6.153v24.61h-18V33.209l30-23.965,30,23.995V76.091Z" transform="translate(141.875 208.756)" fill="#fff"/>
+    <g id="Button">
+      <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(101 681)" fill="#9a0196" stroke="#fff" stroke-width="1">
+        <rect width="173" height="36" rx="18" stroke="none"/>
+        <rect x="0.5" y="0.5" width="172" height="35" rx="17.5" fill="none"/>
+      </g>
+      <text id="Next_" data-name="Next " transform="translate(170 704)" fill="#fff" font-size="15" font-family="BerlinSansFB-Reg, Berlin Sans FB" letter-spacing="0.02em"><tspan x="0" y="0">Next </tspan></text>
+    </g>
+  </g>
+</svg>

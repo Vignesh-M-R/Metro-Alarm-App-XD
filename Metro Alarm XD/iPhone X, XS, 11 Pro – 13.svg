@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <filter id="Rectangle_19" x="284" y="484" width="66" height="77" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_24" data-name="Rectangle 24" width="21" height="13" transform="translate(307 514)" fill="#fff"/>
+    </clipPath>
+    <filter id="Rectangle_26" x="34" y="508" width="253" height="29" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.212"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-iPhone_X_XS_11_Pro_13">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_11_Pro_13" data-name="iPhone X, XS, 11 Pro – 13" clip-path="url(#clip-iPhone_X_XS_11_Pro_13)">
+    <rect width="375" height="812" fill="#3d3d3d"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="314" height="61" rx="10" transform="translate(31 212)" fill="#9a0196"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="314" height="61" rx="10" transform="translate(31 300)" fill="#9a0196"/>
+    <rect id="Rectangle_17" data-name="Rectangle 17" width="314" height="67" rx="10" transform="translate(31 388)" fill="#9a0196"/>
+    <path id="home" d="M16.735,2.451a1.032,1.032,0,0,0-1.24,0L1.125,13.228l1.24,1.518,1.76-1.327v11.9a1.962,1.962,0,0,0,2,1.923h20a1.962,1.962,0,0,0,2-1.923V13.43l1.76,1.317,1.24-1.509Zm1.39,22.87h-4V17.63h4Zm2,0V17.63a1.962,1.962,0,0,0-2-1.923h-4a1.962,1.962,0,0,0-2,1.923v7.691h-6V11.92l10-7.489,10,7.5V25.321Z" transform="translate(42.875 227.756)" fill="#fff"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="257" height="61" rx="10" transform="translate(88 212)" fill="rgba(255,255,255,0.99)"/>
+    <rect id="Rectangle_14" data-name="Rectangle 14" width="257" height="61" rx="10" transform="translate(88 300)" fill="rgba(255,255,255,0.99)"/>
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="257" height="67" rx="10" transform="translate(88 388)" fill="rgba(255,255,255,0.99)"/>
+    <text id="Brownsville" transform="translate(147 250)" fill="#9a0196" font-size="20" font-family="BerlinSansFB-Reg, Berlin Sans FB"><tspan x="0" y="0">Brownsville</tspan></text>
+    <text id="Manhattan" transform="translate(147 337)" fill="#9a0196" font-size="20" font-family="BerlinSansFB-Reg, Berlin Sans FB"><tspan x="0" y="0">Manhattan</tspan></text>
+    <path id="drop-down" d="M7.5,12,15,19l7.5-7Z" transform="translate(303.5 228)" fill="#9a0196" fill-rule="evenodd"/>
+    <path id="drop-down-2" data-name="drop-down" d="M7.5,12,15,19l7.5-7Z" transform="translate(303.5 316)" fill="#9a0196" fill-rule="evenodd"/>
+    <path id="drop-down-3" data-name="drop-down" d="M7.5,12,15,19l7.5-7Z" transform="translate(303 440.5) rotate(-90)" fill="#9a0196" fill-rule="evenodd"/>
+    <g id="Button">
+      <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(101 681)" fill="#9a0196" stroke="#fff" stroke-width="1">
+        <rect width="173" height="36" rx="18" stroke="none"/>
+        <rect x="0.5" y="0.5" width="172" height="35" rx="17.5" fill="none"/>
+      </g>
+      <text id="Set_Alarm" data-name="Set Alarm" transform="translate(155 704)" fill="#fff" font-size="15" font-family="BerlinSansFB-Reg, Berlin Sans FB" letter-spacing="0.02em"><tspan x="0" y="0">Set Alarm</tspan></text>
+    </g>
+    <g id="work-alt" transform="translate(84.5 380)">
+      <path id="Path_4" data-name="Path 4" d="M27.833,10.941a4.971,4.971,0,0,0-5-4.941H16.167a4.971,4.971,0,0,0-5,4.941H9.5a4.971,4.971,0,0,0-5,4.941V29.059A4.971,4.971,0,0,0,9.5,34h20a4.971,4.971,0,0,0,5-4.941V15.882a4.971,4.971,0,0,0-5-4.941Zm-5-1.647H16.167A1.657,1.657,0,0,0,14.5,10.941h10A1.657,1.657,0,0,0,22.833,9.294ZM9.5,14.235h20a1.657,1.657,0,0,1,1.667,1.647V29.059A1.657,1.657,0,0,1,29.5,30.706H9.5a1.657,1.657,0,0,1-1.667-1.647V15.882A1.657,1.657,0,0,1,9.5,14.235Z" transform="translate(-45 -69)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <text id="Set_Alarm-2" data-name="Set Alarm" transform="translate(188 127)" fill="#fff" font-size="31" font-family="BerlinSansFB-Reg, Berlin Sans FB" letter-spacing="0.02em"><tspan x="-66.743" y="0">Set Alarm</tspan></text>
+    <g id="alarm-fill" transform="translate(43.997 406)">
+      <path id="Path_1" data-name="Path 1" d="M10.314.937A.938.938,0,0,1,11.251,0h7.5a.937.937,0,1,1,0,1.875H16.877V3.881a13.128,13.128,0,0,1,6.632,22.986l1.532,1.53a.939.939,0,1,1-1.328,1.327l-1.733-1.734a13.137,13.137,0,0,1-13.958,0L6.29,29.724A.939.939,0,0,1,4.963,28.4l1.532-1.53A13.128,13.128,0,0,1,13.127,3.881V1.875H11.25a.938.938,0,0,1-.938-.937ZM1.613,10.1A4.688,4.688,0,1,1,8.227,3.487,15.066,15.066,0,0,0,1.613,10.1Zm23.7-8.225a4.677,4.677,0,0,0-3.539,1.612A15.066,15.066,0,0,1,28.39,10.1a4.687,4.687,0,0,0-3.075-8.225Zm-9.376,7.5a.938.938,0,0,0-1.875,0v7.279l-2.714,5.426a.937.937,0,1,0,1.676.84l2.813-5.625a.937.937,0,0,0,.1-.42Z" transform="translate(0 0)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <text id="Vibrate" transform="translate(147 429)" fill="#9a0196" font-size="20" font-family="BerlinSansFB-Reg, Berlin Sans FB"><tspan x="0" y="0">Vibrate</tspan></text>
+    <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(31 486)" fill="rgba(255,255,255,0.99)" stroke="#9f1cc5" stroke-width="1">
+      <rect width="314" height="67" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="313" height="66" rx="9.5" fill="none"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_19)">
+      <rect id="Rectangle_19-2" data-name="Rectangle 19" width="48" height="59" rx="7" transform="translate(293 490)" fill="#9a0196"/>
+    </g>
+    <text id="Volume" transform="translate(317 503)" fill="#fff" font-size="10" font-family="BerlinSansFB-Reg, Berlin Sans FB"><tspan x="-16.116" y="0">Volume</tspan></text>
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <text id="_0_1_2_3_4_5_6_7_8_9_10" data-name="0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10" transform="translate(315 513)" fill="#fff" font-size="10" font-family="BerlinSansFB-Reg, Berlin Sans FB"><tspan x="-2.986" y="0">0</tspan><tspan x="-1.399" y="11">1</tspan><tspan x="-2.424" y="22">2</tspan><tspan x="-2.356" y="33">3</tspan><tspan x="-2.5" y="44">4</tspan><tspan x="-2.38" y="55">5</tspan><tspan x="-2.566" y="66">6</tspan><tspan x="-2.205" y="77">7</tspan><tspan x="-2.29" y="88">8</tspan><tspan x="-2.566" y="99">9</tspan><tspan x="-4.385" y="110">10</tspan></text>
+      <text id="_0_1_2_3_4_5_6_7_8_9_0_1_2_3_4_5_6_7_8_9_0" data-name="0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0" transform="translate(321 524)" fill="#fff" font-size="10" font-family="BerlinSansFB-Reg, Berlin Sans FB"><tspan x="-2.986" y="0">0</tspan><tspan x="-1.399" y="11">1</tspan><tspan x="-2.424" y="22">2</tspan><tspan x="-2.356" y="33">3</tspan><tspan x="-2.5" y="44">4</tspan><tspan x="-2.38" y="55">5</tspan><tspan x="-2.566" y="66">6</tspan><tspan x="-2.205" y="77">7</tspan><tspan x="-2.29" y="88">8</tspan><tspan x="-2.566" y="99">9</tspan><tspan x="-2.986" y="110">0</tspan><tspan x="-1.399" y="121">1</tspan><tspan x="-2.424" y="132">2</tspan><tspan x="-2.356" y="143">3</tspan><tspan x="-2.5" y="154">4</tspan><tspan x="-2.38" y="165">5</tspan><tspan x="-2.566" y="176">6</tspan><tspan x="-2.205" y="187">7</tspan><tspan x="-2.29" y="198">8</tspan><tspan x="-2.566" y="209">9</tspan><tspan x="-2.986" y="220">0</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_26)">
+      <rect id="Rectangle_26-2" data-name="Rectangle 26" width="235" height="11" rx="5.5" transform="translate(43 514)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_25" data-name="Rectangle 25" width="25" height="11" rx="5.5" transform="translate(43 514)" fill="#58078e"/>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(58 510)" fill="#58078e" stroke="#fff" stroke-width="1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.5" fill="none"/>
+    </g>
+  </g>
+</svg>

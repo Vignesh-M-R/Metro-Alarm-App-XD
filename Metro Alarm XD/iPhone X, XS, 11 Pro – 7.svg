@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-iPhone_X_XS_11_Pro_7">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_11_Pro_7" data-name="iPhone X, XS, 11 Pro – 7" clip-path="url(#clip-iPhone_X_XS_11_Pro_7)">
+    <rect width="375" height="812" fill="#3d3d3d"/>
+    <text id="Select_Station_for_Work" data-name="Select
+Station for Work" transform="translate(188 129)" fill="#fff" font-size="31" font-family="BerlinSansFB-Reg, Berlin Sans FB" letter-spacing="0.02em"><tspan x="-38.665" y="0">Select</tspan><tspan x="-111.296" y="25">Station for Work</tspan></text>
+    <g id="work-alt" transform="translate(183.5 273)">
+      <path id="Path_4" data-name="Path 4" d="M74.5,20.118C74.5,12.321,67.784,6,59.5,6h-20c-8.284,0-15,6.321-15,14.118h-5c-8.284,0-15,6.321-15,14.118V71.882C4.5,79.679,11.216,86,19.5,86h60c8.284,0,15-6.321,15-14.118V34.235c0-7.8-6.716-14.118-15-14.118Zm-15-4.706h-20a4.86,4.86,0,0,0-5,4.706h30A4.86,4.86,0,0,0,59.5,15.412Zm-40,14.118h60a4.86,4.86,0,0,1,5,4.706V71.882a4.86,4.86,0,0,1-5,4.706h-60a4.86,4.86,0,0,1-5-4.706V34.235A4.86,4.86,0,0,1,19.5,29.529Z" transform="translate(-45 -69)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <g id="Work" transform="translate(0 -84)">
+      <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(36 424)" fill="rgba(255,255,255,0.99)" stroke="#9f1cc5" stroke-width="1">
+        <rect width="303" height="166" rx="10" stroke="none"/>
+        <rect x="0.5" y="0.5" width="302" height="165" rx="9.5" fill="none"/>
+      </g>
+      <text id="Manhattan" transform="translate(49 455)" fill="#9a0196" font-size="20" font-family="BerlinSansFB-Reg, Berlin Sans FB"><tspan x="0" y="0">Manhattan</tspan></text>
+      <text id="New_York" data-name="New York" transform="translate(49 493)" fill="#9a0196" font-size="20" font-family="BerlinSansFB-Reg, Berlin Sans FB"><tspan x="0" y="0">New York</tspan></text>
+      <text id="The_Morgan_Library_Museum" data-name="The Morgan Library &amp; Museum" transform="translate(49 531)" fill="#9a0196" font-size="20" font-family="BerlinSansFB-Reg, Berlin Sans FB"><tspan x="0" y="0">The Morgan Library &amp; Museum</tspan></text>
+      <text id="Tisch_Hospital" data-name="Tisch Hospital" transform="translate(49 569)" fill="#9a0196" font-size="20" font-family="BerlinSansFB-Reg, Berlin Sans FB"><tspan x="0" y="0">Tisch Hospital</tspan></text>
+      <g id="radio-button-checked" transform="translate(305.75 438.75)">
+        <path id="Path_5" data-name="Path 5" d="M9.75,2.25a7.5,7.5,0,1,0,7.5,7.5A7.5,7.5,0,0,0,9.75,2.25Zm0,13.929A6.429,6.429,0,1,1,16.179,9.75,6.429,6.429,0,0,1,9.75,16.179Z" transform="translate(0 0)" fill="#9a0196"/>
+        <path id="Path_6" data-name="Path 6" d="M15.5,11.25a4.25,4.25,0,1,0,4.25,4.25A4.25,4.25,0,0,0,15.5,11.25Z" transform="translate(-5.75 -5.75)" fill="#9a0196"/>
+        <path id="Path_7" data-name="Path 7" d="M15.5,11.25a4.25,4.25,0,1,0,4.25,4.25A4.25,4.25,0,0,0,15.5,11.25Z" transform="translate(-5.75 -5.75)" fill="#9a0196"/>
+      </g>
+      <g id="radio-button-checked-2" data-name="radio-button-checked" transform="translate(305.75 477.75)">
+        <path id="Path_5-2" data-name="Path 5" d="M9.75,2.25a7.5,7.5,0,1,0,7.5,7.5A7.5,7.5,0,0,0,9.75,2.25Zm0,13.929A6.429,6.429,0,1,1,16.179,9.75,6.429,6.429,0,0,1,9.75,16.179Z" transform="translate(0 0)" fill="#9a0196"/>
+      </g>
+      <g id="radio-button-checked-3" data-name="radio-button-checked" transform="translate(305.75 516.75)">
+        <path id="Path_5-3" data-name="Path 5" d="M9.75,2.25a7.5,7.5,0,1,0,7.5,7.5A7.5,7.5,0,0,0,9.75,2.25Zm0,13.929A6.429,6.429,0,1,1,16.179,9.75,6.429,6.429,0,0,1,9.75,16.179Z" transform="translate(0 0)" fill="#9a0196"/>
+      </g>
+      <g id="radio-button-checked-4" data-name="radio-button-checked" transform="translate(305.75 552.75)">
+        <path id="Path_5-4" data-name="Path 5" d="M9.75,2.25a7.5,7.5,0,1,0,7.5,7.5A7.5,7.5,0,0,0,9.75,2.25Zm0,13.929A6.429,6.429,0,1,1,16.179,9.75,6.429,6.429,0,0,1,9.75,16.179Z" transform="translate(0 0)" fill="#9a0196"/>
+      </g>
+    </g>
+  </g>
+</svg>

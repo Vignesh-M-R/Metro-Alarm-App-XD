@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <linearGradient id="linear-gradient" y1="1.221" x2="0.906" y2="-0.917" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4f088d"/>
+      <stop offset="1" stop-color="#a10097"/>
+    </linearGradient>
+    <clipPath id="clip-iPhone_X_XS_11_Pro_4">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_11_Pro_4" data-name="iPhone X, XS, 11 Pro – 4" clip-path="url(#clip-iPhone_X_XS_11_Pro_4)">
+    <rect width="375" height="812" fill="#3d3d3d"/>
+    <text id="Settings" transform="translate(188 123)" fill="#fff" font-size="31" font-family="BerlinSansFB-Reg, Berlin Sans FB" letter-spacing="0.02em"><tspan x="-51.682" y="0">Settings</tspan></text>
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(39 170)" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="1">
+      <rect width="297" height="57" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="296" height="56" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(39 340)" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="1">
+      <rect width="297" height="57" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="296" height="56" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(39 425)" stroke="#fff" stroke-width="1" fill="url(#linear-gradient)">
+      <rect width="297" height="57" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="296" height="56" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(39 510)" fill="rgba(255,255,255,0.13)" stroke="#fff" stroke-width="1">
+      <rect width="297" height="99" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="296" height="98" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(39 255)" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="1">
+      <rect width="297" height="57" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="296" height="56" rx="17.5" fill="none"/>
+    </g>
+    <text id="Metro_System_BMT_Fourth_Avenue_Line" data-name="Metro System
+BMT Fourth Avenue Line" transform="translate(64 191)" fill="#fff" font-size="15" font-family="BerlinSansFB-Reg, Berlin Sans FB" letter-spacing="0.02em"><tspan x="0" y="0">Metro System</tspan><tspan font-size="22"><tspan x="0" y="25">BMT Fourth Avenue Line</tspan></tspan></text>
+    <text id="Home_Brownsville" data-name="Home
+Brownsville" transform="translate(64 276)" fill="#fff" font-size="15" font-family="BerlinSansFB-Reg, Berlin Sans FB" letter-spacing="0.02em"><tspan x="0" y="0">Home</tspan><tspan font-size="22"><tspan x="0" y="25">Brownsville</tspan></tspan></text>
+    <text id="Work_Manhattan" data-name="Work
+Manhattan" transform="translate(64 361)" fill="#fff" font-size="15" font-family="BerlinSansFB-Reg, Berlin Sans FB" letter-spacing="0.02em"><tspan x="0" y="0">Work</tspan><tspan font-size="22"><tspan x="0" y="25">Manhattan</tspan></tspan></text>
+    <text id="Alarm_Vibrate" data-name="Alarm
+Vibrate" transform="translate(64 446)" fill="#fff" font-size="15" font-family="BerlinSansFB-Reg, Berlin Sans FB" letter-spacing="0.02em"><tspan x="0" y="0">Alarm</tspan><tspan font-size="22"><tspan x="0" y="25">Vibrate</tspan></tspan></text>
+    <path id="vibration" d="M0,13.333V6.667H2.351v6.667Zm3.5,2.239V4.427H5.851V15.573H3.5ZM25.649,6.667H28v6.667H25.649V6.667Zm-3.5,8.906V4.427H24.5V15.573H22.149ZM19.25,0a1.724,1.724,0,0,1,1.23.495A1.565,1.565,0,0,1,21,1.667V18.333a1.565,1.565,0,0,1-.52,1.172A1.724,1.724,0,0,1,19.25,20H8.75a1.724,1.724,0,0,1-1.23-.495A1.565,1.565,0,0,1,7,18.333V1.667A1.565,1.565,0,0,1,7.52.495,1.724,1.724,0,0,1,8.75,0Zm-.6,17.761V2.239h-9.3V17.76h9.3Z" transform="translate(288 445)" fill="#fff"/>
+    <text id="Run_in_Background_We_will_automatically_set_alarm_when_we_detect_that_you_are_commuting." data-name="Run in Background
+
+We will automatically set alarm when
+we detect that you are commuting." transform="translate(64 541)" fill="silver" font-size="15" font-family="BerlinSansFB-Reg, Berlin Sans FB" letter-spacing="0.02em"><tspan x="0" y="0">Run in Background</tspan><tspan x="0" y="16"></tspan><tspan x="0" y="32">We will automatically set alarm when</tspan><tspan x="0" y="48">we detect that you are commuting.</tspan></text>
+    <g id="Button">
+      <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(101 681)" fill="#9a0196" stroke="#fff" stroke-width="1">
+        <rect width="173" height="36" rx="18" stroke="none"/>
+        <rect x="0.5" y="0.5" width="172" height="35" rx="17.5" fill="none"/>
+      </g>
+      <text id="Add_Destination" data-name="Add Destination" transform="translate(135 704)" fill="#fff" font-size="15" font-family="BerlinSansFB-Reg, Berlin Sans FB" letter-spacing="0.02em"><tspan x="0" y="0">Add Destination</tspan></text>
+    </g>
+  </g>
+</svg>
